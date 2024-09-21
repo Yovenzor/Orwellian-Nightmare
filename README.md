@@ -15,7 +15,7 @@
 
 Simply launch VSCode and open **Quick Open** ( Ctrl+P ) & type this command:
     
-    ext install YovenzorSingh.goosebumps-at-midnight
+    ext install YovenzorSingh.orwellian-nightmare
 
 ## License
 
