@@ -2,7 +2,7 @@
 
 **A VSCode theme for late-night coding.**
 
-[Image of the theme applied to a code editor
+![preview](https://github.com/user-attachments/assets/a6514392-3685-4e57-8968-f1061f3a24c4)
 
 ## Installation
 
