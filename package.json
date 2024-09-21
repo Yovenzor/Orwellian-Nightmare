@@ -1,0 +1,36 @@
+{
+  "name": "orwellian-nightmare",
+  "displayName": "Orwellian Nightmare",
+  "description": "",
+  "publisher": "yovenzorsingh",
+  "icon": "logo.jpg",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Yovenzor/Orwellian-Nightmare"
+  },
+  "keywords": [
+    "theme",
+    "dark",
+    "Orwellian Nightmare",
+    "Orwellian",
+    "Nightmare",
+    "yovenzor",
+    "singh"
+  ],
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Orwellian Nightmare",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Orwellian-Nightmare-color-theme.json"
+      }
+    ]
+  }
+}
