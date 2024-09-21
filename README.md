@@ -1,15 +1,22 @@
-# Goosebumps at Midnight 🌌
+# Orwellian Nightmare
 
-This theme gives you goosebumps; Especially at midnight! 🦉🌙
+**A VSCode theme for late-night coding.**
 
+[Image of the theme applied to a code editor
 
 ## Installation
 
+### Using the Visual Studio Code CLI:
+
+    1. Open Visual Studio Code.
+    2. Run the following command: `code --install-extension yovenzor.orwellian-nightmare`
+
+### Fast way
+
 Simply launch VSCode and open **Quick Open** ( Ctrl+P ) & type this command:
- 
-    ext install YovenzorSingh.skyfall
     
+    ext install YovenzorSingh.goosebumps-at-midnight
 
-## Author
+## License
 
-This theme is crafted by [Yovenzor](https://github.com/Yovenzor). Feel free to check out my other projects on [GitHub](https://github.com/Yovenzor)!
+This theme is licensed under the [MIT License](https://opensource.org/licenses/MIT).
